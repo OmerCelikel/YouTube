@@ -1,0 +1,11 @@
+print ("Merhaba Dünya")
+
+x = 2
+y = 10
+
+print (x+y)
+
+if(x > 3):
+    print("x 3 ten büyüktür")
+else:
+    print ("x 3 ten küçüktür")

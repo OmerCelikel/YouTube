@@ -1,0 +1,16 @@
+notumuz = 30
+
+if(notumuz>85):
+    print("Harf Notunuz: A")
+
+elif(notumuz > 70):
+    print("Harf Notunuz: B")
+
+elif(notumuz > 60):
+    print("Harf Notunuz: C")
+
+elif(notumuz > 50):
+    print("Harf Notunuz: D")
+
+else:
+    print("Maalesef Kaldınız")
